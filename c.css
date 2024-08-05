@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   background-color: #15181b;
   color: #a7a8aa;
   margin: 0;
@@ -81,10 +81,6 @@ a:hover {
   padding: 5px;
   padding-left: 0;
 }
-/* .contact a {
-  display: inline;
-  padding-right: 0;
-} */
 
 @media(max-width:780px) {
   .main {
